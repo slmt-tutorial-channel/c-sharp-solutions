@@ -8,7 +8,7 @@
 
 ## 目錄
 
-TODO
+- [第2課 - IDE 跟 Hello World](class_1_10/class2.md)
 
 ## 錯誤回報
 
