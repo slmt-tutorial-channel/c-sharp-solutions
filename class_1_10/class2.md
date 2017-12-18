@@ -1,4 +1,4 @@
-# 第2課 - IDE 跟 Hello World
+# 第 2 課 - IDE 跟 Hello World
 
 ## 第一題：註冊 Visual C# 2010 Express
 
@@ -16,7 +16,7 @@
 
 ### 題目
 
-試著修改 Console.WriteLine 裡面的文字，讓程式顯示自己的名字吧！
+試著修改 `Console.WriteLine` 裡面的文字，讓程式顯示自己的名字吧！
 
 ### 參考解答
 

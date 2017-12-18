@@ -8,7 +8,8 @@
 
 ## 目錄
 
-- [第2課 - IDE 跟 Hello World](class_1_10/class2.md)
+- [第 2 課 - IDE 跟 Hello World](class_1_10/class2.md)
+- [第 3 課 - 程式結構與進入點](class_1_10/class3.md)
 
 ## 錯誤回報
 
