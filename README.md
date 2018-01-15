@@ -10,6 +10,7 @@
 
 - [第 2 課 - IDE 跟 Hello World](class_1_10/class2.md)
 - [第 3 課 - 程式結構與進入點](class_1_10/class3.md)
+- [第 5 課 - 變數](class_1_10/class5.md)
 
 ## 錯誤回報
 
